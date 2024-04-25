@@ -1,6 +1,6 @@
 ## Bem vindo ao meu GitHub
 
-<h4>Meu nome é Alexandre Gonçalves dos Santos Formado em Sistemas de Informação pela UnProjeção, Foco em desenvolvmento Fullstack <h4/>
+<h4>Meu nome é Alexandre Gonçalves dos Santos Formado em Sistemas de Informação pela UniProjeção, Foco em me desenvolver como dev Fullstack, Pós-Graduação em desenvolvmento em andamento para assim diversificar e me tornar um profissional ainda mais completo. <h4/>
 
 
 
