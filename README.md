@@ -14,9 +14,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 ## Contatos:
 
 <div>
+          
+<a href="https://wa.me/5561999048447">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>       
 <a href = "mailto:4lex4andr3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alexandregon%C3%A7alvesdossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 <br/><br/>
 <div>
 <a href="https://github.com/Alexandre-jagger">
